@@ -25,6 +25,7 @@ Algunas de las principales características de TypeScript incluyen:
 4. **Mejoras en el desarrollo**: Herramientas como IntelliSense en editores de código proporcionan autocompletado y documentación en línea más precisos.
 
 **[⬆ Volver a índice](#índice)**
+
 ---
 
 #### **Ventajas de usar TypeScript**
@@ -42,5 +43,6 @@ Algunas de las principales características de TypeScript incluyen:
 Estas ventajas hacen que TypeScript sea una excelente opción para proyectos de React, especialmente si buscas mejorar la robustez y mantenibilidad de tu código. ¿Te gustaría saber más sobre cómo empezar a usar TypeScript en un proyecto de React?
 
 **[⬆ Volver a índice](#índice)**
+
 ---
 
