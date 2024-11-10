@@ -11,6 +11,7 @@
 - [Índice](#índice)
     - [**¿Qué es TypeScript?**](#qué-es-typescript)
     - [**Ventajas de usar TypeScript**](#ventajas-de-usar-typescript)
+    - [**Declarar tipos en TypeScript**](#declarar-tipos-en-typescript)
 
 
 #### **¿Qué es TypeScript?**
@@ -45,4 +46,19 @@ Estas ventajas hacen que TypeScript sea una excelente opción para proyectos de 
 **[⬆ Volver a índice](#índice)**
 
 ---
+
+#### **Tipos de datos**
+En JavaScript, hay seis tipos de datos básicos que se pueden dividir en tres categorías principales:
+
+- Tipos de datos **primitivos**. **String, Number y Boolean** son tipos de datos **primitivos**.
+
+- Tipos de datos **compuestos**. **Object, Array y Function** (que son todos tipos de objetos) son tipos de datos **compuestos**.
+
+- Tipos de datos **especiales**. Mientras que **Undefined** y **Null** son tipos de datos especiales.
+
+**[⬆ Volver a índice](#índice)**
+
+---
+
+#### **Declarar tipos en TypeScript**
 
