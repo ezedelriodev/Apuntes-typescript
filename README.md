@@ -24,6 +24,9 @@ Algunas de las principales características de TypeScript incluyen:
 3. **Compatibilidad con JavaScript**: Puedes usar cualquier código JavaScript existente en un proyecto TypeScript.
 4. **Mejoras en el desarrollo**: Herramientas como IntelliSense en editores de código proporcionan autocompletado y documentación en línea más precisos.
 
+**[⬆ Volver a índice](#índice)**
+---
+
 #### **Ventajas de usar TypeScript**
 
 1. **Tipado estático**: TypeScript permite definir tipos para tus variables, funciones y componentes, lo que ayuda a detectar errores en <u>tiempo de desarrollo<u> en lugar de en <u>tiempo de ejecución<u>. Esto puede reducir significativamente los bugs y mejorar la calidad del código.
@@ -37,4 +40,7 @@ Algunas de las principales características de TypeScript incluyen:
 5. **Detección temprana de errores**: Al compilar el código, TypeScript puede detectar errores que JavaScript no detectaría hasta que el código se ejecute, lo que puede ahorrar tiempo y esfuerzo en la depuración.
 
 Estas ventajas hacen que TypeScript sea una excelente opción para proyectos de React, especialmente si buscas mejorar la robustez y mantenibilidad de tu código. ¿Te gustaría saber más sobre cómo empezar a usar TypeScript en un proyecto de React?
+
+**[⬆ Volver a índice](#índice)**
+---
 
