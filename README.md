@@ -50,7 +50,7 @@ Estas ventajas hacen que TypeScript sea una excelente opción para proyectos de 
 #### **Tipos de datos**
 En JavaScript, hay seis tipos de datos básicos que se pueden dividir en tres categorías principales:
 
-- Tipos de datos **primitivos**. **String, Number y Boolean** son tipos de datos **primitivos**.
+- Tipos de datos **primitivos**. **String, Number y Boolean** son tipos de datos <u>**primitivos**<u>.
 
 - Tipos de datos **compuestos**. **Object, Array y Function** (que son todos tipos de objetos) son tipos de datos **compuestos**.
 
